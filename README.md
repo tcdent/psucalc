@@ -138,7 +138,7 @@ R -> ratio`: Conversion Ratio n:m
 ```
 
 ## Example Config
-```
+```python
 AC_Mains(Vout=V(120), subs=[
     #Transformer(ratio=R('1:6'), subs=[
     Transformer(Vout=V(24), subs=[
