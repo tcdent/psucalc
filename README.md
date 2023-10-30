@@ -1,3 +1,9 @@
+# psucalc
+
+## Example output
+![Example output](https://github.com/tcdent/psucalc/assets/54419/21cf037c-2af8-4732-a484-15b442da44f1)
+
+## Documentation
 ```
  _ __  ___ _   _  ___ __ _|*| ___ 
 | '_ \/ __| | | |/ __/ _` | |/ __|
@@ -171,3 +177,7 @@ AC_Mains(Vout=V(120), subs=[
     ]),
 ])
 ```
+
+## TODO
+* Component library is incomplete
+* Calculations need tests
